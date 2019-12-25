@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e09a291.chunk.css",
+    "main.js": "/static/js/main.a6f52140.chunk.js",
+    "main.js.map": "/static/js/main.a6f52140.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4f8f3b2f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4f8f3b2f.js.map",
+    "static/js/2.ebe24981.chunk.js": "/static/js/2.ebe24981.chunk.js",
+    "static/js/2.ebe24981.chunk.js.map": "/static/js/2.ebe24981.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.32f89ac34c1efa690d7d143664161880.js": "/precache-manifest.32f89ac34c1efa690d7d143664161880.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1e09a291.chunk.css.map": "/static/css/main.1e09a291.chunk.css.map",
+    "static/js/2.ebe24981.chunk.js.LICENSE": "/static/js/2.ebe24981.chunk.js.LICENSE",
+    "static/media/index.scss": "/static/media/NotoSans-Regular.5a87cce8.ttf",
+    "static/media/splatterprofile.png": "/static/media/splatterprofile.aae67cba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f8f3b2f.js",
+    "static/js/2.ebe24981.chunk.js",
+    "static/css/main.1e09a291.chunk.css",
+    "static/js/main.a6f52140.chunk.js"
+  ]
+}
