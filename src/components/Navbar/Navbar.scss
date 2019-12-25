@@ -1,0 +1,32 @@
+.inactive-navitem {
+    font-size: 22pt;
+    color: lightgray;
+    cursor: pointer;
+}
+
+.active-navitem {
+    color: black;
+}
+
+.mediaIcons {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.navbar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50px;
+    display: flex;
+    flex-direction: column;
+
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    max-height: 80vh;
+    align-items: flex-start;
+}
