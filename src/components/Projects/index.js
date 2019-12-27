@@ -33,7 +33,7 @@ export const Projects = () => (
             link="https://github.com/YaleOpenLab/smartPropertyMVP"
             title="IoT/Ethereum Microgrid Monitoring"
             subtitle="Go · Raspberry Pi/Photon · Infura"
-            description="As part of the ideation process for an off-grid microgrid energy system, I developed a proof of concept using Raspberry Pi's. I wrote a script and Go that would track energy readings from connected sensors. This data would be transmitted to an MQTT broker where another server would listen and post this data to the blockchain using Infura. This sytem was deployed in Puerto Rico as a proof of concept and has since continued development using Stellar. The project was done alongside Jonathan Simons and advised/led by Martin Wainstein, Yale OpenLab founder."
+            description="As part of the ideation process for an off-grid microgrid energy system, I developed a proof of concept using Raspberry Pi's. I wrote a script using Go that would track energy readings from connected sensors. This data would be transmitted to an MQTT broker where another server would listen and post this data to the blockchain using Infura. This sytem was deployed in Puerto Rico as a proof of concept and has since continued development using Stellar. The project was done alongside Jonathan Simons and advised/led by Martin Wainstein, Yale OpenLab founder."
         ></ProjectItem>
 
         <ProjectItem

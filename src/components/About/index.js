@@ -7,9 +7,12 @@ import "./About.scss";
 
 export const About = () => (
     <Element className="element-section about-container" name="about">
-        <img src={profileImage}></img>
+        <div className="about-header">
+            <img src={profileImage}></img>
+        </div>
         <h1>Eric Duong</h1>
-        <p>I tinker with products and ideas!</p>
+
+        <p>I build stuff</p>
         <p>
             I'm a senior at Yale studying Math and Philosophy with significant
             computational coursework. Apart from theoretical and philosophical
@@ -29,5 +32,15 @@ export const About = () => (
             causes. On my way there, I'm expanding my product skills in every
             way possible.
         </p>
+        <div>
+            <p>
+                <b>Currently Reading: </b>
+                The Refugees by Viet Thanh Nguyen
+            </p>
+            <p>
+                <b>Currently Watching: </b> Patriot Act + other Netflix Comedy
+                Specials
+            </p>
+        </div>
     </Element>
 );
